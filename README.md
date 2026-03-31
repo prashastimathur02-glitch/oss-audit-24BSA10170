@@ -92,12 +92,12 @@ chmod +x script5.sh
 ![Script 3](image/script3_output.png)
 
 ### Script 4 Output
-![Script 2](image/script4_output.png)
+![Script 4](image/script4_output.png)
 
 ### Script 5 Output
-![Script 2](image/script5_output1.png)
-![Script 2](image/script5_output2.png)
-![Script 2](image/script5_output3.png)
+![Script 5](image/script5_output1.png)
+![Script 5](image/script5_output2.png)
+![Script 5](image/script5_output3.png)
 
 
 
