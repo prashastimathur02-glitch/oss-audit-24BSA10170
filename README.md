@@ -83,21 +83,21 @@ chmod +x script5.sh
 ## Screenshots
 
 ### Script 1 Output
-![Script 1](script1_output.png)
+![Script 1](image/script1_output.png)
 
 ### Script 2 Output
-![Script 2](script2_output.png)
+![Script 2](image/script2_output.png)
 
 ### Script 3 Output
-![Script 3](script3_output.png)
+![Script 3](image/script3_output.png)
 
 ### Script 4 Output
-![Script 2](script4_output.png)
+![Script 2](image/script4_output.png)
 
 ### Script 5 Output
-![Script 2](script5_output1.png)
-![Script 2](script5_output2.png)
-![Script 2](script5_output3.png)
+![Script 2](image/script5_output1.png)
+![Script 2](image/script5_output2.png)
+![Script 2](image/script5_output3.png)
 
 
 
