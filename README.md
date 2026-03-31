@@ -80,6 +80,17 @@ chmod +x script5.sh
 
 [Paste your repository link here]
 
+## Screenshots
+
+### Script 1 Output
+![Script 1](script1_output.png)
+
+### Script 2 Output
+![Script 2](script2_output.png)
+
+### Script 3 Output
+![Script 3](script3_output.png)
+
 
 ## Conclusion
 
